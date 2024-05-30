@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-25T16:07:33 IST" name="Default suite" finished-at="2024-05-25T16:07:50 IST" duration-ms="16871">
+  <suite started-at="2024-05-30T12:17:49 IST" name="Default suite" finished-at="2024-05-30T12:18:22 IST" duration-ms="33046">
     <groups>
     </groups>
-    <test started-at="2024-05-25T16:07:33 IST" name="Default test" finished-at="2024-05-25T16:07:50 IST" duration-ms="16871">
-      <class name="AutomateGoogleForm.GoogleForm">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:AutomateGoogleForm.GoogleForm@3270d194]" started-at="2024-05-25T16:07:33 IST" name="setUp" finished-at="2024-05-25T16:07:39 IST" duration-ms="5549" status="PASS">
+    <test started-at="2024-05-30T12:17:49 IST" name="Default test" finished-at="2024-05-30T12:18:22 IST" duration-ms="33046">
+      <class name="FlipKart.Flipkart">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:FlipKart.Flipkart@76505305]" started-at="2024-05-30T12:17:49 IST" name="setUp" finished-at="2024-05-30T12:17:56 IST" duration-ms="6718" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="googleForm()[pri:0, instance:AutomateGoogleForm.GoogleForm@3270d194]" started-at="2024-05-25T16:07:39 IST" name="googleForm" finished-at="2024-05-25T16:07:49 IST" duration-ms="10482" status="PASS">
+        <test-method signature="flipkart()[pri:0, instance:FlipKart.Flipkart@76505305]" started-at="2024-05-30T12:17:56 IST" name="flipkart" finished-at="2024-05-30T12:18:22 IST" duration-ms="25455" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- googleForm -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:AutomateGoogleForm.GoogleForm@3270d194]" started-at="2024-05-25T16:07:49 IST" name="tearDown" finished-at="2024-05-25T16:07:50 IST" duration-ms="731" status="PASS">
+        </test-method> <!-- flipkart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:FlipKart.Flipkart@76505305]" started-at="2024-05-30T12:18:22 IST" name="tearDown" finished-at="2024-05-30T12:18:22 IST" duration-ms="769" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- AutomateGoogleForm.GoogleForm -->
+      </class> <!-- FlipKart.Flipkart -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
