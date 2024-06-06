@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-30T12:17:49 IST" name="Default suite" finished-at="2024-05-30T12:18:22 IST" duration-ms="33046">
+  <suite started-at="2024-06-06T16:38:51 IST" name="Default suite" finished-at="2024-06-06T16:39:55 IST" duration-ms="64261">
     <groups>
     </groups>
-    <test started-at="2024-05-30T12:17:49 IST" name="Default test" finished-at="2024-05-30T12:18:22 IST" duration-ms="33046">
-      <class name="FlipKart.Flipkart">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:FlipKart.Flipkart@76505305]" started-at="2024-05-30T12:17:49 IST" name="setUp" finished-at="2024-05-30T12:17:56 IST" duration-ms="6718" status="PASS">
+    <test started-at="2024-06-06T16:38:51 IST" name="Default test" finished-at="2024-06-06T16:39:55 IST" duration-ms="64261">
+      <class name="WebScrapper.WebScrapper">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:WebScrapper.WebScrapper@73a1e9a9]" started-at="2024-06-06T16:38:51 IST" name="setUp" finished-at="2024-06-06T16:38:55 IST" duration-ms="4703" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="flipkart()[pri:0, instance:FlipKart.Flipkart@76505305]" started-at="2024-05-30T12:17:56 IST" name="flipkart" finished-at="2024-05-30T12:18:22 IST" duration-ms="25455" status="PASS">
+        <test-method signature="WebscrapeTeam()[pri:0, instance:WebScrapper.WebScrapper@73a1e9a9]" started-at="2024-06-06T16:38:55 IST" name="WebscrapeTeam" finished-at="2024-06-06T16:39:22 IST" duration-ms="27092" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- flipkart -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:FlipKart.Flipkart@76505305]" started-at="2024-05-30T12:18:22 IST" name="tearDown" finished-at="2024-05-30T12:18:22 IST" duration-ms="769" status="PASS">
+        </test-method> <!-- WebscrapeTeam -->
+        <test-method signature="WebscraperFlim()[pri:0, instance:WebScrapper.WebScrapper@73a1e9a9]" started-at="2024-06-06T16:39:23 IST" name="WebscraperFlim" finished-at="2024-06-06T16:39:54 IST" duration-ms="31943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebscraperFlim -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:WebScrapper.WebScrapper@73a1e9a9]" started-at="2024-06-06T16:39:54 IST" name="tearDown" finished-at="2024-06-06T16:39:55 IST" duration-ms="438" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- FlipKart.Flipkart -->
+      </class> <!-- WebScrapper.WebScrapper -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
